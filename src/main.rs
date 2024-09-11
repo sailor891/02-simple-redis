@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let num = 1e+8;
+    println!("{:e}", num);
 }
